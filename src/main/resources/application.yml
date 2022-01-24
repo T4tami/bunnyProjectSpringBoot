@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url:
+    username: root
+    password: 19950926
+    driver-class-name: com.mysql.cj.jdbc.Driver
